@@ -1,0 +1,6 @@
+
+
+g++ -fopenmp ccc.cpp -o ccc
+
+
+.\ccc.exe
